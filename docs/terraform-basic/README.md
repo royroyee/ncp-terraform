@@ -252,6 +252,7 @@ variable "image_id" {
   - `number`
   - `bool`
   - `any` : 명시적으로 모든 유형이 허용됨을 표시
+
 - 집합 유형
   - `list`
   - map : 키 값을 기준으로 **정렬**
