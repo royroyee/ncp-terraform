@@ -5,7 +5,7 @@ variable "name_scn02" {
 }
 
 variable "client_ip" {
-  default = "113.60.253.143"
+  default = "YOUR_IP"
 }
 
 variable "region" {
